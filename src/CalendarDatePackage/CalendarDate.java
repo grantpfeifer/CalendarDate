@@ -7,7 +7,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 /**
  *
- * @author l-pfeifer
+ * @author g-pfeifer
  */
 /*
  *      CalendarDate testDate =       new CalendarDate(14, 2, 2013);
